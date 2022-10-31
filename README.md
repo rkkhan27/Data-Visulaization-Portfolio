@@ -1,4 +1,4 @@
-## repository
+## Repository
 This is my public portfolio for Telling Stories with Data at CMU!
 ## About me
 Hi this is Kashif Khan (he, his, him)
