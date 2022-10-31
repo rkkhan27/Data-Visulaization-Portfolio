@@ -9,6 +9,12 @@ I am passionate to learn both tools and techniques to carve engaging visualizati
 ## Portfolio
 All of my exicting work is here. Ready to fasciante you.  
 **Project 1**
+
+
 **Project 2**
+
+
 **Project 3**
+
+
 **Final Project**
