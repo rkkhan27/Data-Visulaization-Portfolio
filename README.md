@@ -1,5 +1,5 @@
 ## Repository
-This is my public portfolio for the course *Telling Stories with Data* at CMU!
+This is my public portfolio for the course **Telling Stories with Data** at CMU!
 ## About me
 Hi this is Kashif Khan (he, his, him)
 I'm a second year Masters student in the MS in Public Policy and Management - Flagship Program at Heinz.
