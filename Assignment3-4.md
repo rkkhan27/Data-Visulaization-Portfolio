@@ -28,5 +28,10 @@ This method of evaluating the data visualization is effective and almost all the
 
 # Step 5: My Solution
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11821278"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11821355"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed flourish-sankey" data-src="visualisation/11821394"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
