@@ -26,29 +26,52 @@ In this chart, percentage comparison of each source of energy is presented and f
 I showed these two cahrts and the original chart to two users for feedback. Their responses to each question are as follows:
 
 ## Feedback Prticipant 1:
+
 *- Can you tell me what you think this is?*
+
 These charts are showing energy realted information for the year 2011. 
+
 *- Can you describe to me what this is telling you?*
+
 One is for sources of energy, and the other is for sectorwise consumption.
+
 *- Is there anything you find surprising or confusing?*
+
 I do understand that each color within staked bar charts repersent information coded in the legend and I can compare them but I am not getting any idea about the size represented by that code. But, it is understandable and easy to follow as compared to the original chart you showed me. 
+
 *- Who do you think is the intended audience for this?*
+
 Anyone who is intrested in knowing about the energy mix can be the intended audience.
+
 *- Is there anything you would change or do differently?*
+
 I would prefer presenting this same info in a pie chart.
+
+
 ## Feedback Participant 2: 
+
 *- Can you tell me what you think this is?*
+
 Bar charts for energy mix.
+
 *- Can you describe to me what this is telling you?*
+
 I can see these comparing different sources and sectors of energy usage.
+
 *- Is there anything you find surprising or confusing?*
+
 No
+
 *- Who do you think is the intended audience for this?*
+
 It may be for anyone who is interested in getting information related to energy mix.
+
 *- Is there anything you would change or do differently?*
+
 I would love to see percentages within the bars for each different categories.  
 
 # Step 5: My Solution
+
 In light of the feedback, I tried incorporating percentages within the staked bars, however, I could not find proper way to divide the percentages into further percentages. So, I split up these into two separate bar charts and limited myself to presenting one topic in one chart. For presenting the relationship between sectors and sources of energy, I came up with an idea of using Sankey diagram.  Further, I also got feedback from my peers and they found these better. However, I found a challenge here and could not find any solution for that. The issue is that in the Sankey diagram, I successfully created data link from sources to sectors; however, could not create link when we move from sectors to sources and did not find any option in Flourish as well. So, I think, I can make two sankey diagrams each for sources and sectors of energy consumption. Also, the issue with Sankey is when we print the picture, the dynamic nature of diagram gets affected and we cannot get the information that we want to present through this diagram.
 
 All the three charts became easy to follow as can be seen here: 
@@ -57,7 +80,7 @@ All the three charts became easy to follow as can be seen here:
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11821355"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Further, I 
+
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/11821394"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
