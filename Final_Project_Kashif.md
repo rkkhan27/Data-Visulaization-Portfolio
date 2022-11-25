@@ -16,7 +16,7 @@ I want to compare through my story the innovative startups launched in the US ve
 <img width="744" alt="PNG image 4" src="https://user-images.githubusercontent.com/116416753/203885022-666ef8f8-670f-40ee-833a-16b92c7441db.png">
 
 # Data Source: 
-I will be using data available on Kaggle which enlists around 1000 startups started between 2006-2022 across the globe. Data is presented in different tables and do not contain coordiantes. I will try making my own final table by joining and cleaning it through Python. Mainly, I will use this datatable that can be excessed on (https://www.kaggle.com/datasets/thedevastator/empowering-the-next-wave-of-entrepreneurs) and will find other data to substantiate my call to action through further research and all other sources will be referenced. 
+I will be using data available on Kaggle which enlists around 1000 startups started between 2006-2022 across the globe. Data is presented in different tables and do not contain coordiantes. I will try making my own final table by joining and cleaning it through Python. Mainly, I will use this datatable that can be excessed on [Kaggle](https://www.kaggle.com/datasets/thedevastator/empowering-the-next-wave-of-entrepreneurs) and will find other data to substantiate my call to action through further research and all other sources will be referenced. 
 
 # Method and Medium: 
 I will use shorthand to present my story. For visulaization, I will use Tableau and Flourish to make charts. My selection of charts will not be limited to what is mentioned above and I will explore more data sources and will analyze my choices of charts in light of the class discussion, and Good Charts book.  
