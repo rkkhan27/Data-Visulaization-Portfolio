@@ -15,20 +15,17 @@ I am passionate to learn both tools and techniques to carve engaging visualizati
 ## Portfolio
 All of my exicting work is here. Ready to fasciante you.  
 
+
 ## Sample 1
-
-[Sample dataviz 1](https://rkkhan27.github.io/Portfolio/Kingcountydemo.html)
-
-## Sample 2
 [Sample dataviz 2](https://rkkhan27.github.io/Portfolio/Debt-to-GDPsparklines)
 
-## Sample 3
+## Sample 2
 [Final Project Part 1](https://rkkhan27.github.io/Portfolio/Final_Project_Kashif.html)
 
-## Sample 4
+## Sample 3
 [Final Project Part 2](https://rkkhan27.github.io/Portfolio/Final_Project_part-2)
 
-## Sample 5
+## Sample 4
 [Final Project Part 3](https://rkkhan27.github.io/Portfolio/Final_Project_part-3)
 
 
