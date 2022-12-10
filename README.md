@@ -1,5 +1,8 @@
 ## Repository
-This is my public portfolio for the course **Telling Stories with Data** at CMU!
+This is my public portfolio for the course 
+
+**Telling Stories with Data** at CMU!
+
 ## About me
 Hi! this is **Kashif Khan** (he, his, him)
 
@@ -9,13 +12,20 @@ Before coming to Heinz, I was working as civil servant with the Federal Governme
 I am passionate to learn both tools and techniques to carve engaging visualizations which tell right stories with data. 
 ## Portfolio
 All of my exicting work is here. Ready to fasciante you.  
-**Project 1**
+
+**Sample dataviz 1**
+https://rkkhan27.github.io/Portfolio/Kingcountydemo.html
+
+**Sample dataviz 2**
+https://rkkhan27.github.io/Portfolio/Debt-to-GDPsparklines
+
+**Final Project Part 1**
+https://rkkhan27.github.io/Portfolio/Final_Project_Kashif.html
+
+**Final Project Part 2**
+https://rkkhan27.github.io/Portfolio/Final_Project_part-2
+
+**Final Project Part 3**
+https://rkkhan27.github.io/Portfolio/Final_Project_part-3
 
 
-**Project 2**
-
-
-**Project 3**
-
-
-**Final Project**
