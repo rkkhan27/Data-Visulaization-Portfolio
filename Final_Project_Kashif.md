@@ -20,3 +20,5 @@ I will be using data available on Kaggle which enlists around 1000 startups star
 
 # Method and Medium: 
 I will use shorthand to present my story. For visulaization, I will use Tableau and Flourish to make charts. My selection of charts will not be limited to what is mentioned above and I will explore more data sources and will analyze my choices of charts in light of the class discussion, and Good Charts book.  
+
+[Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
