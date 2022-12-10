@@ -1,4 +1,4 @@
-[Link to Portfolio](https://github.com/rkkhan27/Portfolio)
+[Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
 
 # Government Debt Bar Chart
 #### General Govt Debt
