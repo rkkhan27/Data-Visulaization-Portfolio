@@ -1,4 +1,4 @@
-[Link to Portfolio](https://github.com/rkkhan27/Portfolio)
+[Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
 ## Step 1: Selecting the Dataviz:
 This dataviz selected from the US Annual Energy Review (2011) tries depicting US energy mix by sources of energy and sector wise comsumption of each source. The information given here is important for a wide variety of audiences as energy mix is considered backbone of economic progress and most of the people find it an interesting topic to read. However, as we expect the topic to be appealing for a range of stakeholders, this dataviz, paradoxically, has made it difficult to understand. It seems a hodgepodge of data, colors, and arrows. Resultantly, I found it fascinating to apply good chart methods to present the same information with more clarity. 
 
