@@ -1,9 +1,10 @@
 [Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
 
-[Link to Part 1](https://rkkhan27.github.io/Portfolio/Final_Project_part-1.html)
-[Link to Part 2](https://rkkhan27.github.io/Portfolio/Final_Project_part-2.html)
+[Link to Project Part 1](https://rkkhan27.github.io/Portfolio/Final_Project_part-1.html)
 
-[My Data Story](https://preview.shorthand.com/8EauZLXw6EXyakvn)
+[Link to Project Part 2](https://rkkhan27.github.io/Portfolio/Final_Project_part-2.html)
+
+[My Data Story on Shorthand](https://preview.shorthand.com/8EauZLXw6EXyakvn)
 
 # Conceiving the Idea:
 
@@ -28,3 +29,5 @@ I also tried finding several data set which would help me connect different dots
 I removed unnecessary data from the charts to make these more meaningful. In the income inequality chart, I showd trend only for the top 90th and lower 10th percentiles whilel keeping median in between. Similarly, I improved othere charts as well. 
 
 Finally, I also worked on the outline of my story to make the flow logical. Like, I started with the meaning of "American Dream", how America is living this dream by leading the world through innovation, wehre within the US this innovation is happening, what is happening within those innovation hubs, what future trends are bieng prognosticated if things left unchecked, and what the target audience, which, in this case is the Federal Government should intervene to end this resource convergence. 
+
+[Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
