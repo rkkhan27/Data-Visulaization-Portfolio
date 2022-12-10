@@ -17,7 +17,7 @@ All of my exicting work is here. Ready to fasciante you.
 
 
 ## Sample 1
-[Sample dataviz 2](https://rkkhan27.github.io/Portfolio/Debt-to-GDPsparklines)
+[Sample dataviz](https://rkkhan27.github.io/Portfolio/Debt-to-GDPsparklines)
 
 ## Sample 2
 [Final Project Part 1](https://rkkhan27.github.io/Portfolio/Final_Project_Kashif.html)
