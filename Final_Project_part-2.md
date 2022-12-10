@@ -35,3 +35,5 @@ In light of the user research findings mentioned above, I plan following changes
 3) Find data related to another state which is not an innovation hub and try comparing it with California
 4) Color code USA in the first World Top Innovative Countries
 5) Work on improving honeycomb map on the pattern of choropleth map.  
+
+[Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
