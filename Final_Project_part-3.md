@@ -16,18 +16,24 @@ Initially, the idea of presenting a reality check on American Dream in 21st Cent
 ## Learning Continues and Change is Permanent: 
 In light of the varied feedback from user research, I made following changes: 
 
-**Improving Chart Titles**
+**Improving Chart Titles:**
 Working on the titles which convey clear ideas to the users was the first step that I took in finalisng my work. I worked not only on the chart titles but also on the presentation titles to make these appealing and communicative of the idea being presented in the chart.
 
-**Use of Colors**
-I mulled over the key aspects of my story and came up to the conclusion about the two main aspects of "Innovation" and "Inequality". As both these words have postive and negative connotations reapectively, so I decided to user "Green" color for "Innovation" and "Red" color for "Inequality" throught in the text, titiles, and charts for sake of consistency and making it meaningful for the audience. Also, within each chart, I used same colors to show key trends. I also restricted myself to few colors and hihglighted only the key idea while keeping all other in the background. 
+**Use of Colors:**
+I mulled over the key aspects of my story and came up to the conclusion about the two main aspects of "Innovation" and "Inequality". As both these words have postive and negative connotations reapectively, so I decided to user "Green" color for "Innovation" and "Red" color for "Inequality" throughout in the text, titles, and charts for sake of consistency and making it meaningful for the audience. Also, within each chart, I used same colors to show key trends. I also restricted myself to few colors and hihglighted only the key idea while keeping all others in the background. 
 
-**Choice of Data and Chart**
-I also tried finding several data set which would help me connect different dots in my story and thus lead to the final conclusion. After getting the usere feedback, I removed irrelavant charts and tried finding new data for the key aspects of the story. I also changed choice of chart to make it easy to understand for the audience. Removed honeycomb chart I made in Part 2 for mapping the inequality index by state and repalced it with choropleth map.   
+**Choice of Data and Chart:**
+I also tried finding several data sets which would help me connect different dots in my story while leading to the final conclusion. After getting the usere feedback, I removed irrelavant charts and tried finding new data for the key aspects of the story. I also changed choice of chart to make it easy to understand for the audience. Removed honeycomb chart I made in Part 2 for mapping the inequality index by state and repalced it with color coded choropleth map.   
 
-**One Idea, One Chart**
-I removed unnecessary data from the charts to make these more meaningful. In the income inequality chart, I showd trend only for the top 90th and lower 10th percentiles whilel keeping median in between. Similarly, I improved othere charts as well. 
+**One Idea, One Chart:**
+I removed unnecessary data from the charts to make these more meaningful. In the income inequality chart, I showd trend only for the top 90th and lower 10th percentiles while keeping median in between. Similarly, I improved other charts as well. 
 
-Finally, I also worked on the outline of my story to make the flow logical. Like, I started with the meaning of "American Dream", how America is living this dream by leading the world through innovation, wehre within the US this innovation is happening, what is happening within those innovation hubs, what future trends are bieng prognosticated if things left unchecked, and what the target audience, which, in this case is the Federal Government should intervene to end this resource convergence. 
+**Target Audience:**
+The target audience of this story is the policy makers within Federal Government as the call to action requires a federal intervention to develop other theme based innovation hubs within US so that equal opportunities for all can be created. As it will require a whole range of regulatory, administrative, financial, and infrastructure development, therefore, Government intervention is a must in this case. 
+
+
+Finally, I also worked on the outline of my story to make the flow logical. Like, I started with the meaning of "American Dream", how America is living this dream by leading the world through innovation, where within the US this innovation is happening, what is happening within those innovation hubs, what future trends are bieng prognosticated if matters are left unchecked, and why the target audience, which, in this case is the Federal Government should intervene to end this resource convergence. 
+
+
 
 [Link to Portfolio](https://rkkhan27.github.io/Portfolio/)
